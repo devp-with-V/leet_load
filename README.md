@@ -1,2 +1,3 @@
 # Open_notes.ai
-all the leetcode questions
+
+A better Notes app
