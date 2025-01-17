@@ -1,2 +1,2 @@
-# leet_load
+# Open_notes.ai
 all the leetcode questions
